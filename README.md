@@ -1,11 +1,11 @@
-### 2022_Geiok_Project
+### 🌱 2022_Geiok_Project 🌱
 <img width="434" alt="20221120_114223" src="https://user-images.githubusercontent.com/111629889/202880289-24128138-bcf1-43a5-833f-f1416cf39bfb.png">
 
 * Project Name : Gieok
 * Project Execution period : 2022.09~2022.11
 * Project Hosting : 조서진 (Seojin Cho) 
 
-# Description
+# 🔍 Description
 포스트 코로나 이후로 최근 각국이 코로나 빗장을 풀면서 여행 수요가 회복 조짐을 보이고 있습니다.
 막상 가려니 주변 친구나 애인과 가기엔 일정이 맞지 않고, 그렇지만 당장 떠나고는 싶은데 혼자는 싫을 때가 있습니다. 이럴 땐 __기억하자~!__ 기역(ㄱ)은 한글 자음 중 첫 번째 글자입니다. __ㄱㅎㅈ? ㄱ하자? 기억하자!__
 
@@ -17,7 +17,7 @@
 사진, 명소에 관한 이벤트 등을 등록하여  를 누를 수 있다. 
 나아가 함께 여행을 가기 위한  동행을 신청할 수 있는 서비스를 제공한다.
 
-# Language 
+# 📝 Language 
 * Java
 * JSP
 * HTML5
@@ -25,18 +25,18 @@
 * JavaScript
 * jQuery
 
-# Framework
+# 🚩Framework
 * Spring Legacy
 * Mybatis
 
-# Tool
+# 🏷️ Tool
 * Eclipse / SQL developer 
 * Figma (UI 제작 직접 설계)
 * ERD Cloud
 
-# domain : gieok.icu
+# 💡 domain : gieok.icu
 
-# server
+# 🚀 server
 * OS : CentOS-7-x86_64-Minimal-2009
 * RAM : 8GB
 * SSD: 100GB
@@ -47,11 +47,11 @@
 * SSL 인증서
 
 
-# PORTFOLIO
+# ✨ PORTFOLIO
 
 [3조_기억하자_여행중개플랫폼(최종).pdf](https://github.com/seojinvely1004/project-gieok.icu/files/10048298/3._._.pdf)
 
 ___
 ***
-Contact me : 82)10-5710-0486
+🧐Contact me : 82)10-5710-0486
 ___
